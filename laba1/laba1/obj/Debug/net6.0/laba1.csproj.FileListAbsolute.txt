@@ -1,0 +1,15 @@
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.csproj.AssemblyReference.cache
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.AssemblyInfoInputs.cache
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.AssemblyInfo.cs
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.csproj.CoreCompileInputs.cache
+/Users/denisborovik/Projects/laba1/laba1/bin/Debug/net6.0/laba1
+/Users/denisborovik/Projects/laba1/laba1/bin/Debug/net6.0/laba1.deps.json
+/Users/denisborovik/Projects/laba1/laba1/bin/Debug/net6.0/laba1.runtimeconfig.json
+/Users/denisborovik/Projects/laba1/laba1/bin/Debug/net6.0/laba1.dll
+/Users/denisborovik/Projects/laba1/laba1/bin/Debug/net6.0/laba1.pdb
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.dll
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/ref/laba1.dll
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.pdb
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/laba1.genruntimeconfig.cache
+/Users/denisborovik/Projects/laba1/laba1/obj/Debug/net6.0/refint/laba1.dll
